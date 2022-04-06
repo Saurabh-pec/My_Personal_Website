@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sk-image-resize{
+    width: 400px;
+    
+}

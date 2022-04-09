@@ -229,7 +229,7 @@ section .title::after {
 }
 .column_left1{
   
- 
+ clip-path: circle();
 }
 .about .about-content .left img {
   height: 400px;

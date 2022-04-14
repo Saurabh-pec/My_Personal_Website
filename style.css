@@ -557,7 +557,7 @@ that they form a hexagon */
 .center {
   margin: auto;
   width: 70%;
-  border: 1px solid  rgb(13, 14, 13);
+  border:1px  solid  rgb(13, 14, 13);
   padding: 10px;
 }
 
